@@ -12,3 +12,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.title{
+  background-color: rgb(46, 9, 9);
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.subscriber-info{
+  margin-top: 30px;
+}
+
+.wd-40{
+  width:40%;
+}
+
+.mg-top-10{
+  margin-top: 10px;
+}
+
+.nav{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.back-btn-container{
+  margin-left: 10px;
+}
